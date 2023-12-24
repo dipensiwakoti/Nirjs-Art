@@ -17,7 +17,7 @@ header {
 
 body {
   margin-left: 2%;
-  background-image: url("/Nirjss/nirjs.img/mountain.png");
+  background-image: url("mountain.png");
   background-repeat: no-repeat;
   background-size: cover;
   height: fit-content;
@@ -149,7 +149,7 @@ a #button:hover{
   margin-left: 3%;
   margin-right: 4%;
   padding: 0.4%;
-  background-image: url("/Nirjss/nirjs.img/body.png");
+  background-image: url("body.png");
 
   background-size: contain;
   background-repeat: no-repeat;
