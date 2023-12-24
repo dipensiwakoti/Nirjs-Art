@@ -1,0 +1,56 @@
+*{
+    background-color: darkgray;
+}
+p {
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 2.7%;
+    font-size: 110%;
+   
+}
+
+label {
+    margin: 5%;
+    color: rgb(55, 222, 222);
+    background-color: black;
+    text-align: center;
+    font-size: 150% ;
+    font-weight: bold;
+    border: 4px solid red;
+}
+li4{
+    background-color: darkolivegreen;
+}
+.li5{
+    background-color: rgb(77, 153, 73);
+}
+.style {
+    background-color: rgb(238, 231, 47);
+    margin-left: 10%;
+    margin-right: 60%;
+    color: rgb(241, 13, 66);}
+    #button {
+        color: black;
+        border-radius: 6px;
+        background-color: rgb(228, 83, 161);
+        margin-right: 4vw;
+        margin-left: 20vw;
+        padding: .2vw, .2vh;
+        text-decoration: none;
+      }
+
+
+      /* second css-ideasubmit.css */
+
+      h3{
+        display: flex;
+        justify-content: center;
+        background-color: blueviolet;
+    
+      }
+     .paragraph{
+        background-color: chocolate;
+        border-left: 6px solid blue;
+        border-right: 6px solid rgb(234, 255, 0);
+        border-bottom: 6px solid rgb(34, 212, 18);
+     }

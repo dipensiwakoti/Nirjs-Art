@@ -1,0 +1,222 @@
+* {
+  text-decoration: none;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-image: url("https://scontent.fktm8-1.fna.fbcdn.net/v/t1.15752-9/398435661_1054774735947725_2090554161362712110_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=YoaoigcCfXQAX9XU8lk&_nc_ht=scontent.fktm8-1.fna&oh=03_AdRmcgNq4uk-M2QX9IN_b_AfNZSmt642e3_L2vt1YUlJAA&oe=65A25171");
+  background-repeat: repeat-x;
+  padding: 1vh;
+  margin-bottom: 1vh;
+  height: 5vh;
+  width: 100vw;
+  position: sticky;
+  top: 0;
+}
+
+body {
+  margin-left: 2%;
+  background-image: url("/Nirjss/nirjs.img/mountain.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: fit-content;
+}
+
+.art {
+  background-color: rgb(208, 126, 74);
+  color: rgb(0, 0, 0);
+  /* height: 15%; */
+  border-color: rgb(243, 33, 33);
+  margin-left: 3vw;
+  margin-right: 3vw;
+  border-radius: 12%;
+  border: 50px;
+  height: 2vh;
+}
+em {
+  font-family: "Rubik", sans-serif;
+}
+.art2 {
+  background-color: bisque;
+  margin-left: 0%;
+  margin-right: 0%;
+  /* height: 2vh; */
+  margin-bottom: 2vh;
+}
+ol,
+a {
+  text-align: right;
+  color: lightgoldenrodyellow;
+  /* background-color: darkgreen; */
+  /* margin-top: 0%; */
+  display: inline;
+  margin-left: 1%;
+  font-size: 2vh;
+  margin-top: 4vh;
+}
+li {
+  list-style: disc;
+}
+li1 {
+  background-color: darkblue;
+  color: rgb(17, 255, 0);
+  border: 2px solid crimson;
+  border-radius: 30px;
+  padding: 0.2%;
+  margin-top: 4vh;
+  @media screen and (max-width:1100px) {
+    font-size: 1.8vh;
+  }
+}
+li2 {
+  background-color: rgb(255, 251, 0);
+  color: rgb(0, 0, 0);
+  border: 2px solid rgb(255, 255, 255);
+  border-radius: 30px;
+  padding: 0.1%;
+  margin-top: 4vh;
+  @media screen and (max-width:1100px) {
+    font-size: 1.8vh;
+  }
+}
+li3 {
+  background-color: rgb(255, 0, 0);
+  color: rgb(0, 0, 0);
+  border: 2px solid crimson;
+  border-radius: 30px;
+  padding: 0.1%;
+  margin-top: 4vh;
+  @media screen and (max-width:1100px) {
+    font-size: 1.8vh;
+  }
+}
+nav,
+ol {
+  text-align: right;
+  font-size: 2.2vh;
+  margin-top: 4vh;
+}
+
+#button {
+  background-color: rgb(27, 227, 90);
+  text-align: center;
+  border-radius: 50px;
+  padding: 7px;
+  margin-left: 20%;
+  color: rgb(13, 14, 14);
+}
+
+
+a li2:hover {
+  background-color: rgb(164, 167, 71);
+}
+a li1:hover {
+  background-color: rgb(65, 87, 151);
+}
+a li3:hover {
+  background-color: rgb(192, 99, 69);
+}
+a:hover{
+  color: rgb(38, 255, 0);
+}
+a #button:hover{
+  background-color: grey;
+  font-weight: 700;
+}
+
+.pro4 {
+  background-color: rgb(180, 183, 174);
+  color: black;
+  margin-top: 2%;
+  margin-left: 1%;
+  margin-right: 1%;
+  padding: 1%;
+}
+.pro12 {
+  background-color: rgb(58, 67, 145);
+  color: black;
+  margin-top: 1%;
+  margin-left: 6%;
+  margin-right: 58%;
+  padding: 1%;
+}
+
+.pro {
+  background-color: rgb(96, 145, 188);
+  color: black;
+  margin-top: 0px;
+  margin-left: 3%;
+  margin-right: 4%;
+  padding: 0.4%;
+  background-image: url("/Nirjss/nirjs.img/body.png");
+
+  background-size: contain;
+  background-repeat: no-repeat;
+  border-right: 10px solid darkkhaki;
+  border-left: 10px solid darkkhaki;
+  border-top: 5px solid rgb(72, 222, 236);
+  background-attachment: scroll;
+}
+
+.body3 {
+  background-color: rgb(132, 221, 129);
+  text-align: center;
+  text-decoration: rgb(142, 189, 230);
+  margin: 1vh;
+}
+
+.pro1 {
+  background-color: rgba(116, 215, 125, 0.958);
+  padding: 0%;
+  margin-top: 0%;
+  color: black;
+  margin-left: 5.5%;
+  margin-right: 5.5%;
+}
+
+.input {
+  background-color: rgb(205, 214, 78);
+  margin-top: 5px;
+  margin-bottom: 5px;
+  color: black;
+  margin-right: 78%;
+  @media screen and (max-width:1100px) {
+    background-color: rgb(205, 214, 78);
+
+  margin-right: 56%;
+  }
+}
+
+label {
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 0, 106);
+}
+
+.light {
+  background-color: rgb(215, 81, 66);
+}
+
+.pro6 {
+  background-color: cornsilk;
+  margin-right: 30%;
+  margin-left: 30%;
+}
+
+.messagebox {
+  color: rgb(255, 255, 255);
+  background-color: blue;
+  border-radius: 30%;
+  padding: 0.2%;
+  position: fixed;
+}
+
+footer {
+  background-image: url(" https://img.freepik.com/free-vector/modern-flowing-colorful-wave-banner-background_1035-19861.jpg?size=338&ext=jpg&ga=GA1.1.2000297541.1702467108&semt=ais");
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 1vh;
+  margin: 0%;
+  padding: 0%;
+  border-radius: 30vh;
+}

@@ -1,0 +1,59 @@
+*{
+    background-color: aqua;
+    margin: 0%;
+    padding: 0%;
+}
+
+header {
+    background-color: darkgray;
+    color: black;
+    padding: 5vh ;
+    
+  
+}
+
+label {
+    background-color: yellowgreen;
+    color: black;
+    font-weight: 600;
+    font-style: italic;
+}
+label1 {
+    background-color: rgb(218, 228, 30);
+    color: black;
+    font-weight: 800;
+    font-style: italic;
+
+    margin-left: 20vw;
+}
+
+p{
+    margin-left: 5vw;
+    margin-right: 5vw;
+    padding: 3vh;
+    border-radius: 22px;
+    border-left: 3vw solid yellow;
+    border-right: 3vw solid rgb(35, 208, 29);
+    border-bottom: 3vw solid rgb(255, 68, 0);
+    border-top: 3vw solid rgb(61, 119, 196);
+}
+label4{
+    background-color: brown;
+    font-weight: 500;
+    text-decoration: wavy;
+}
+label5{
+    background-color: rgb(99, 174, 76);
+    font-weight: 300;
+    text-decoration: wavy;
+}
+label6{
+    background-color: rgb(222, 102, 28);
+    font-weight: 300;
+    text-decoration: wavy;
+}
+label7{
+    background-color: rgb(214, 43, 203);
+    font-weight: 300;
+    text-decoration: wavy;
+}

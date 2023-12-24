@@ -1,0 +1,42 @@
+body {
+  
+    background-color: rgb(137, 197, 177);
+  background-image: url(" https://scontent.fktm8-1.fna.fbcdn.net/v/t1.15752-9/359998706_1328325684439097_5777399656648228456_n.jpg?stp=dst-jpg_p1080x2048&_nc_cat=110&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=rQLgo6VHS4YAX_TZzHO&_nc_ht=scontent.fktm8-1.fna&oh=03_AdQoB0J8kD22AIzNOe-ySx6li1X_7UvVY883lT7OX_bjIA&oe=659CDE41");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 120vh;
+    @media screen and (max-width:1000px) {
+     height:100vh;
+     }
+}
+
+.input {
+    background-color: rgba(rgba(55, 26, 201, 0.918), green, blue, alpha);
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: black;
+}
+.style {
+    background-color: rgb(251, 253, 250);
+    margin-left: 10%;
+    margin-right: 15%;
+    color: rgb(0, 255, 68);
+}
+div {
+  background-image: url('https://scontent.fktm8-1.fna.fbcdn.net/v/t1.15752-9/371473099_367794939116526_6090991571560642229_n.png?_nc_cat=102&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=ydWhofXq80MAX9GdfY5&_nc_ht=scontent.fktm8-1.fna&oh=03_AdRtifO82WUFUnc15-JFVxuNjmLaE9LpN_fJZTz1pwg8zg&oe=659D39E4');
+  background-repeat: no-repeat;
+  height: 77vh;
+  width: fit-content;
+  height: fit-content;
+  padding: 20vh 2vw;
+  margin-left: 60vw;
+  margin-right: 10vh;
+ @media screen and (max-width:1000px) {
+  margin: 0vw;
+  margin-letf:20vw;
+ }
+}
+
+
+
+  
